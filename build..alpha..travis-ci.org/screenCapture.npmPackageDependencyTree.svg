@@ -1,7 +1,7 @@
 <svg height="3150" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3150" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">23 megabytes installed</tspan>
+<tspan x="10" y="26">22 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ gulp-cloudfront@0.0.14 </tspan>
@@ -116,7 +116,7 @@
 <tspan x="10" y="1818">  │ │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="1834">  │ │   ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="1850">  │ │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="1866">  │ │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="1866">  │ │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1882">  │ │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1898">  │ │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1914">  │ │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -172,8 +172,8 @@
 <tspan x="10" y="2714">  │   └── clone-stats@0.0.1 </tspan>
 <tspan x="10" y="2730">  ├─┬ mocha@1.13.0 </tspan>
 <tspan x="10" y="2746">  │ ├── commander@0.6.1 </tspan>
-<tspan x="10" y="2762">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="2778">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="2762">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="2778">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="2794">  │ ├── diff@1.0.7 </tspan>
 <tspan x="10" y="2810">  │ ├─┬ glob@3.2.3 </tspan>
 <tspan x="10" y="2826">  │ │ ├── graceful-fs@2.0.3 </tspan>

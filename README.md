@@ -1,4 +1,7 @@
-# test coverage for  [gulp-cloudfront (v0.0.14)](https://github.com/smysnk/gulp-cloudfront)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cloudfront.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cloudfront) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cloudfront.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cloudfront)
+# npmtest-gulp-cloudfront
+
+#### basic test coverage for  [gulp-cloudfront (v0.0.14)](https://github.com/smysnk/gulp-cloudfront)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cloudfront.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cloudfront) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cloudfront.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cloudfront)
+
 #### > Updates the Default Root Object of a CloudFront distribution
 
 [![NPM](https://nodei.co/npm/gulp-cloudfront.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-cloudfront)
@@ -89,7 +92,8 @@
     "scripts": {
         "test": "mocha test.js"
     },
-    "version": "0.0.14"
+    "version": "0.0.14",
+    "bin": {}
 }
 ```
 
